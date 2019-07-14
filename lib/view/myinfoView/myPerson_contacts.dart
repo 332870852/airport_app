@@ -18,6 +18,7 @@ class _ContactsViewState extends State<ContactsView> {
   PersonInfoProvider _infoProvider = new PersonInfoProvider();
   List<PersonInfo> _personInfos = [];
 
+
   @override
   void initState() {
     super.initState();
