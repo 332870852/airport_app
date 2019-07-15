@@ -1,6 +1,7 @@
 # airport_app
 
 A new Flutter application for pay airport ticket
+纯flutter 写的飞机票APP， 后端使用斑马服务提供的API，完成了飞机票订票，退票，查票，航班查询，添加个人信息等功能
 
 ## Getting Started
 
