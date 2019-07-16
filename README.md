@@ -5,17 +5,17 @@ A new Flutter application for pay airport ticket
 纯flutter 写的飞机票APP， 后端使用斑马服务提供的API，完成了飞机票订票，退票，查票，航班查询，添加个人信息等功能
 
 ##界面展示
-<img src="/airport_app.wiki/6.jpg"  width="30%" height="50%" />
-<img src="/airport_app.wiki/8.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/5.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/4.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/1.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/7.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/2.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/12.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/3.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/10.jpg" width="30%" height="50%" />
-<img src="/airport_app.wiki/9.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/6.jpg"  width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/8.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/5.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/4.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/1.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/7.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/2.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/12.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/3.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/10.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/9.jpg" width="30%" height="50%" />
 
 # 注意事项
 <h4>出现类似如下图情况</h4>
