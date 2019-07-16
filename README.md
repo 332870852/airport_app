@@ -1,8 +1,34 @@
-# airport_app
+# airport_app(广西智慧旅游平台☞飞机票APP)
 
 A new Flutter application for pay airport ticket
+
 纯flutter 写的飞机票APP， 后端使用斑马服务提供的API，完成了飞机票订票，退票，查票，航班查询，添加个人信息等功能
 
+##界面展示
+<img src="/airport_app.wiki/6.jpg"  width="30%" height="50%" />
+<img src="/airport_app.wiki/8.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/5.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/4.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/1.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/7.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/2.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/12.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/3.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/10.jpg" width="30%" height="50%" />
+<img src="/airport_app.wiki/9.jpg" width="30%" height="50%" />
+
+# 注意事项
+<h4>出现类似如下图情况</h4>
+<center>
+<img src="/airport_app.wiki/11.jpg" width="30%" height="50%" />
+</center>
+ <h4>如果界面获取不到后台数据，或者无法成功购买机票，则是后台接口access_token已被修改，或者后台api地址已更换！后端接口使用的是斑马便民：</h4>
+- [斑马便民](http://sale.bm001.com)
+# 最后更多项目请关注
+<h2>旭哥github开源项目 </h2>
+本项目所有权为本人所有，请勿侵权！
+有问题或交流请邮箱留言332870852@qq.com
+- [旭哥开源](https://github.com/332870852)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
