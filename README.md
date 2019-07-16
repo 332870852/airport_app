@@ -20,7 +20,7 @@ A new Flutter application for pay airport ticket
 # 注意事项
 <h4>出现类似如下图情况</h4>
 <center>
-<img src="/airport_app.wiki/11.jpg" width="30%" height="50%" />
+<img src="http://118.24.89.101:8080/airportflutter/11.jpg" width="30%" height="50%" />
 </center>
  <h4>如果界面获取不到后台数据，或者无法成功购买机票，则是后台接口access_token已被修改，或者后台api地址已更换！后端接口使用的是斑马便民：</h4>
 - [斑马便民](http://sale.bm001.com)
